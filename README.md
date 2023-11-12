@@ -1,2 +1,2 @@
 # CCDBA_Final_Project
-# preparing
+# detail in report.pdf and slide.ppt
