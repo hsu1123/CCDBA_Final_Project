@@ -1,4 +1,4 @@
-# CCDBA_Final_Project
+# Solving data imbalance problem by generative model
 # detail show in report.pdf and slide.ppt
 
 * Original mfcc
